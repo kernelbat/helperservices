@@ -1,7 +1,8 @@
 {
   "name": "@kernelbat/helperservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helperservice",
+  "types": "./src/index.d.ts",
   "main": "index.js",
   "engines": {
     "node": ">=18"
